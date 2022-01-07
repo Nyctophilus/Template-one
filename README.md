@@ -5,6 +5,7 @@
  <p align="justify">🍭This repository serves as my first template submission</p>
  <p align="justify">Fully ANIMATIED💫</p>
 
+![landing page]()
 <br>
 <br>
 <br>
