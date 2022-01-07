@@ -5,7 +5,7 @@
  <p align="justify">🍭This repository serves as my first template submission</p>
  <p align="justify">Fully ANIMATIED💫</p>
 
-![landing page]()
+![landing page](https://github.com/Nyctophilus/Template-one/blob/main/leon-landing-page.jpg)
 <br>
 <br>
 <br>
